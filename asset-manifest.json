@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ruff-website/static/css/main.5d498d82.chunk.css",
+    "main.js": "/ruff-website/static/js/main.0dfd9afb.chunk.js",
+    "main.js.map": "/ruff-website/static/js/main.0dfd9afb.chunk.js.map",
+    "runtime-main.js": "/ruff-website/static/js/runtime-main.56bee7bd.js",
+    "runtime-main.js.map": "/ruff-website/static/js/runtime-main.56bee7bd.js.map",
+    "static/js/2.1489d5dc.chunk.js": "/ruff-website/static/js/2.1489d5dc.chunk.js",
+    "static/js/2.1489d5dc.chunk.js.map": "/ruff-website/static/js/2.1489d5dc.chunk.js.map",
+    "index.html": "/ruff-website/index.html",
+    "precache-manifest.3e62e9ac6a574bcf4e7aa188c90b77c3.js": "/ruff-website/precache-manifest.3e62e9ac6a574bcf4e7aa188c90b77c3.js",
+    "service-worker.js": "/ruff-website/service-worker.js",
+    "static/css/main.5d498d82.chunk.css.map": "/ruff-website/static/css/main.5d498d82.chunk.css.map",
+    "static/js/2.1489d5dc.chunk.js.LICENSE.txt": "/ruff-website/static/js/2.1489d5dc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ruff-website/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56bee7bd.js",
+    "static/js/2.1489d5dc.chunk.js",
+    "static/css/main.5d498d82.chunk.css",
+    "static/js/main.0dfd9afb.chunk.js"
+  ]
+}
