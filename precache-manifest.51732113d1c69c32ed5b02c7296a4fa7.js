@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "028929701334db6f3484f9a315466669",
+    "revision": "5e57ba8e02f821140b7936eccc701600",
     "url": "/ruff-site/index.html"
   },
   {
-    "revision": "d6433edc7d111411106d",
+    "revision": "b1198ff480b9d0c0440c",
     "url": "/ruff-site/static/css/main.5d498d82.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ruff-site/static/js/2.1489d5dc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d6433edc7d111411106d",
-    "url": "/ruff-site/static/js/main.eab14b84.chunk.js"
+    "revision": "b1198ff480b9d0c0440c",
+    "url": "/ruff-site/static/js/main.bda6e8d4.chunk.js"
   },
   {
     "revision": "074ea435a1a40a09bd35",

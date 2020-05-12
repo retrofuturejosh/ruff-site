@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ruff-site/static/css/main.5d498d82.chunk.css",
-    "main.js": "/ruff-site/static/js/main.eab14b84.chunk.js",
-    "main.js.map": "/ruff-site/static/js/main.eab14b84.chunk.js.map",
+    "main.js": "/ruff-site/static/js/main.bda6e8d4.chunk.js",
+    "main.js.map": "/ruff-site/static/js/main.bda6e8d4.chunk.js.map",
     "runtime-main.js": "/ruff-site/static/js/runtime-main.687cb9a8.js",
     "runtime-main.js.map": "/ruff-site/static/js/runtime-main.687cb9a8.js.map",
     "static/js/2.1489d5dc.chunk.js": "/ruff-site/static/js/2.1489d5dc.chunk.js",
     "static/js/2.1489d5dc.chunk.js.map": "/ruff-site/static/js/2.1489d5dc.chunk.js.map",
     "index.html": "/ruff-site/index.html",
-    "precache-manifest.a88279ae89f2134e1a8d15d745ea430a.js": "/ruff-site/precache-manifest.a88279ae89f2134e1a8d15d745ea430a.js",
+    "precache-manifest.51732113d1c69c32ed5b02c7296a4fa7.js": "/ruff-site/precache-manifest.51732113d1c69c32ed5b02c7296a4fa7.js",
     "service-worker.js": "/ruff-site/service-worker.js",
     "static/css/main.5d498d82.chunk.css.map": "/ruff-site/static/css/main.5d498d82.chunk.css.map",
     "static/js/2.1489d5dc.chunk.js.LICENSE.txt": "/ruff-site/static/js/2.1489d5dc.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.687cb9a8.js",
     "static/js/2.1489d5dc.chunk.js",
     "static/css/main.5d498d82.chunk.css",
-    "static/js/main.eab14b84.chunk.js"
+    "static/js/main.bda6e8d4.chunk.js"
   ]
 }
