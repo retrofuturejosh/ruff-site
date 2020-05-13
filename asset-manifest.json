@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/www.ruffunivers.com/static/css/main.5d498d82.chunk.css",
-    "main.js": "/www.ruffunivers.com/static/js/main.2e89945b.chunk.js",
-    "main.js.map": "/www.ruffunivers.com/static/js/main.2e89945b.chunk.js.map",
-    "runtime-main.js": "/www.ruffunivers.com/static/js/runtime-main.ee3e8216.js",
-    "runtime-main.js.map": "/www.ruffunivers.com/static/js/runtime-main.ee3e8216.js.map",
-    "static/js/2.1489d5dc.chunk.js": "/www.ruffunivers.com/static/js/2.1489d5dc.chunk.js",
-    "static/js/2.1489d5dc.chunk.js.map": "/www.ruffunivers.com/static/js/2.1489d5dc.chunk.js.map",
-    "index.html": "/www.ruffunivers.com/index.html",
-    "precache-manifest.56aaad58d5bab03f6a79b47068dcf7f4.js": "/www.ruffunivers.com/precache-manifest.56aaad58d5bab03f6a79b47068dcf7f4.js",
-    "service-worker.js": "/www.ruffunivers.com/service-worker.js",
-    "static/css/main.5d498d82.chunk.css.map": "/www.ruffunivers.com/static/css/main.5d498d82.chunk.css.map",
-    "static/js/2.1489d5dc.chunk.js.LICENSE.txt": "/www.ruffunivers.com/static/js/2.1489d5dc.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/www.ruffunivers.com/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.5d498d82.chunk.css",
+    "main.js": "/static/js/main.800e1abe.chunk.js",
+    "main.js.map": "/static/js/main.800e1abe.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a85c9dbe.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a85c9dbe.js.map",
+    "static/js/2.1489d5dc.chunk.js": "/static/js/2.1489d5dc.chunk.js",
+    "static/js/2.1489d5dc.chunk.js.map": "/static/js/2.1489d5dc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4436d39faa3e6cd2bc6ff0107e3f2240.js": "/precache-manifest.4436d39faa3e6cd2bc6ff0107e3f2240.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5d498d82.chunk.css.map": "/static/css/main.5d498d82.chunk.css.map",
+    "static/js/2.1489d5dc.chunk.js.LICENSE.txt": "/static/js/2.1489d5dc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ee3e8216.js",
+    "static/js/runtime-main.a85c9dbe.js",
     "static/js/2.1489d5dc.chunk.js",
     "static/css/main.5d498d82.chunk.css",
-    "static/js/main.2e89945b.chunk.js"
+    "static/js/main.800e1abe.chunk.js"
   ]
 }
