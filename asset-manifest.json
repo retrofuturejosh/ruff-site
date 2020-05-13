@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ruffunivers.com/static/css/main.5d498d82.chunk.css",
-    "main.js": "/ruffunivers.com/static/js/main.34cda8cc.chunk.js",
-    "main.js.map": "/ruffunivers.com/static/js/main.34cda8cc.chunk.js.map",
-    "runtime-main.js": "/ruffunivers.com/static/js/runtime-main.4a987587.js",
-    "runtime-main.js.map": "/ruffunivers.com/static/js/runtime-main.4a987587.js.map",
-    "static/js/2.1489d5dc.chunk.js": "/ruffunivers.com/static/js/2.1489d5dc.chunk.js",
-    "static/js/2.1489d5dc.chunk.js.map": "/ruffunivers.com/static/js/2.1489d5dc.chunk.js.map",
-    "index.html": "/ruffunivers.com/index.html",
-    "precache-manifest.b3016a81186867a9d54a50a6bdbf7b3d.js": "/ruffunivers.com/precache-manifest.b3016a81186867a9d54a50a6bdbf7b3d.js",
-    "service-worker.js": "/ruffunivers.com/service-worker.js",
-    "static/css/main.5d498d82.chunk.css.map": "/ruffunivers.com/static/css/main.5d498d82.chunk.css.map",
-    "static/js/2.1489d5dc.chunk.js.LICENSE.txt": "/ruffunivers.com/static/js/2.1489d5dc.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/ruffunivers.com/static/media/logo.5d5d9eef.svg"
+    "main.css": "/www.ruffunivers.com/static/css/main.5d498d82.chunk.css",
+    "main.js": "/www.ruffunivers.com/static/js/main.2e89945b.chunk.js",
+    "main.js.map": "/www.ruffunivers.com/static/js/main.2e89945b.chunk.js.map",
+    "runtime-main.js": "/www.ruffunivers.com/static/js/runtime-main.ee3e8216.js",
+    "runtime-main.js.map": "/www.ruffunivers.com/static/js/runtime-main.ee3e8216.js.map",
+    "static/js/2.1489d5dc.chunk.js": "/www.ruffunivers.com/static/js/2.1489d5dc.chunk.js",
+    "static/js/2.1489d5dc.chunk.js.map": "/www.ruffunivers.com/static/js/2.1489d5dc.chunk.js.map",
+    "index.html": "/www.ruffunivers.com/index.html",
+    "precache-manifest.56aaad58d5bab03f6a79b47068dcf7f4.js": "/www.ruffunivers.com/precache-manifest.56aaad58d5bab03f6a79b47068dcf7f4.js",
+    "service-worker.js": "/www.ruffunivers.com/service-worker.js",
+    "static/css/main.5d498d82.chunk.css.map": "/www.ruffunivers.com/static/css/main.5d498d82.chunk.css.map",
+    "static/js/2.1489d5dc.chunk.js.LICENSE.txt": "/www.ruffunivers.com/static/js/2.1489d5dc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/www.ruffunivers.com/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a987587.js",
+    "static/js/runtime-main.ee3e8216.js",
     "static/js/2.1489d5dc.chunk.js",
     "static/css/main.5d498d82.chunk.css",
-    "static/js/main.34cda8cc.chunk.js"
+    "static/js/main.2e89945b.chunk.js"
   ]
 }
