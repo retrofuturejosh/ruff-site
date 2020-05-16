@@ -3,10 +3,12 @@ import AudioPlayer from "react-modular-audio-player";
 
 let audioFiles = [
   {
-    src: "/immortalSin.wav",
+    src: process.env.PUBLIC_URL + '/immortalSin.wav',
     title: "Immortal Sin"
   }
 ];
+
+
 
 let rearrangedPlayer = [
   {
@@ -38,6 +40,7 @@ let rearrangedPlayer = [
 ]
 
 function Footer() {
+  console.log("Shout out from the console!");
   return (
     <div className="Footer">
         <div id="footer-text">

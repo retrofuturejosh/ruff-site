@@ -70,12 +70,13 @@ html, body {
 .audio-player {
   font-family: 'Cutive Mono' !important;
   font-size: x-large !important;
-  background-color: #e5e5e5; 
+  background-color: #dedede00; 
   width: fit-content !important;
   filter: invert(100%);
   display: inline-block !important;
   padding: 0.5rem;
   height: fit-content !important;
+  color: black;
 }
 
 #footer-text {
