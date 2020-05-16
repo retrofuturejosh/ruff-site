@@ -5,6 +5,10 @@ let audioFiles = [
   {
     src: process.env.PUBLIC_URL + '/immortalSin.wav',
     title: "Immortal Sin"
+  },
+  {
+    src: process.env.PUBLIC_URL + '/snapback.wav',
+    title: "Snapback"
   }
 ];
 
