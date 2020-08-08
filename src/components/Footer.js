@@ -3,15 +3,10 @@ import AudioPlayer from "react-modular-audio-player";
 
 let audioFiles = [
   {
-    src: process.env.PUBLIC_URL + '/immortalSin.wav',
-    title: "Immortal Sin"
-  },
-  {
-    src: process.env.PUBLIC_URL + '/snapback.wav',
-    title: "Snapback"
+    src: process.env.PUBLIC_URL + '/strangers.mp3',
+    title: "Strangers in the Dark"
   }
 ];
-
 
 
 let rearrangedPlayer = [
