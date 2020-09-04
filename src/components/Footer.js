@@ -45,9 +45,9 @@ function Footer() {
         <div id="footer-text">
           <a href="https://www.instagram.com/__r_u_f_f__/">@__r_u_f_f__</a>
         </div>
-        <AudioPlayer
+        {/* <AudioPlayer
           iconSize="1.5rem"
-          fontSize="1rem" audioFiles={audioFiles} rearrange={rearrangedPlayer} />
+          fontSize="1rem" audioFiles={audioFiles} rearrange={rearrangedPlayer} /> */}
     </div>
   );
 }

@@ -58,7 +58,6 @@ html, body {
   width: 96%;
   text-align: center;
   padding-bottom: 2%;
-  display: flex;
   justify-content: space-between;
   align-items: center;
   background-color: #212121;
