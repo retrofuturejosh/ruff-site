@@ -8,14 +8,11 @@ body {
 }
 
 html {
-  background-color: #212121;
+  background-color: #000101;
   color: white
 }
 
-html, body {
-  max-width: 100%;
-  overflow-x: hidden;
-}
+html, body {margin: 0; height: 100%; overflow: hidden}
 
 .Header-text {
   text-align: center;
@@ -60,7 +57,7 @@ html, body {
   padding-bottom: 2%;
   justify-content: space-between;
   align-items: center;
-  background-color: #212121;
+  background-color: #000101;
   flex-wrap: wrap;
   padding-left: 2%;
   padding-right: 2%;
@@ -97,6 +94,53 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.linkClass {
+  position: fixed;
+  width: 100%;
+  text-align: left;
+  padding-left: 2%;
+}
+
+.link {
+  font-size: 2.5em;
+  background: #000101;
+}
+
+#link1 {
+  top: 12%
+}
+
+#link2 {
+  top: 30%
+}
+
+#link3 {
+  top: 48%
+}
+
+#link4 {
+  top: 66%
+}
+
+#link5 {
+  top: 84%
+}
+
+#ruff-home {
+  text-align: right;
+    position: fixed;
+    top: 2%;
+    width: 100%;
+}
+
+#ruff-home-name {
+  padding-right: 5%;
+  letter-spacing: 0.5em;
+}
+
+
+
 
 /* Smartphones (portrait) ----------- */
 @media only screen and (max-width : 517px) {

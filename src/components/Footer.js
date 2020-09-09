@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom'
 import AudioPlayer from "react-modular-audio-player";
 
 let audioFiles = [
@@ -42,10 +43,14 @@ function Footer() {
   console.log("Shout out from the console!");
   return (
     <div className="Footer">
-        <div id="footer-text">
-          <a href="https://www.instagram.com/__r_u_f_f__/">@__r_u_f_f__</a>
-        </div>
-        {/* <AudioPlayer
+      
+      <div id="footer-text">
+        <a href="https://www.instagram.com/__r_u_f_f__/">@__r_u_f_f__</a>
+      </div>
+      <div>
+        <Link to="/?songLink=strangers">Listen to debut single Strangers in the Dark</Link>
+      </div>
+      {/* <AudioPlayer
           iconSize="1.5rem"
           fontSize="1rem" audioFiles={audioFiles} rearrange={rearrangedPlayer} /> */}
     </div>

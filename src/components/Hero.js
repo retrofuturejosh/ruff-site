@@ -1,12 +1,17 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
-function Hero() {
-    return (
-      <div className="Hero">
-        <img id="Hero-img" src={process.env.PUBLIC_URL + '/stranger-hero.png'}></img>
-      </div>
-    );
-  }
-  
-  export default Hero;
-  
+function Hero(props) {
+  const { image } = props;
+  console.log(image);
+  return (
+    <div className="Hero">
+      <Link to="/?songLink=strangers">
+        <img id="Hero-img" src={process.env.PUBLIC_URL + image}></img>
+      </Link>
+
+    </div>
+  );
+}
+
+export default Hero;
