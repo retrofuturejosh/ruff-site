@@ -20,7 +20,7 @@ function StreamingLinks(props) {
             <div class='linkClass' id='link1'> <span><a className="link" target="_blank" href={links.spotify}>Spotify</a></span></div>
             <div class='linkClass' id='link2'> <span><a className="link" target="_blank" href={links.apple}>Apple Music</a></span></div>
             <div class='linkClass' id='link3'> <span><a className="link" target="_blank" href={links.tidal}>Tidal</a></span></div>
-            <div class='linkClass' id='link4'> <span><a className="link" target="_blank" href={links.google}>Google Play</a> </span></div>
+            <div class='linkClass' id='link4'> <span><a className="link" target="_blank" href={links.youtube}>YouTube</a> </span></div>
             <div class='linkClass' id='link5'> <span><a className="link" target="_blank" href={links.amazon}>Amazon Music</a></span></div>
         </div>
     );
