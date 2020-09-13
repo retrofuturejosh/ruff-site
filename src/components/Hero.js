@@ -6,7 +6,7 @@ function Hero(props) {
   console.log(image);
   return (
     <div className="Hero">
-      <Link to="/?songLink=strangers">
+      <Link id="hero-link" to="/?songLink=strangers">
         <img id="Hero-img" src={process.env.PUBLIC_URL + image}></img>
       </Link>
 

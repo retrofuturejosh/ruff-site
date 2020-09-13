@@ -139,6 +139,11 @@ code {
   letter-spacing: 0.5em;
 }
 
+#hero-link {
+  display: flex;
+  justify-content: center;
+}
+
 
 
 
