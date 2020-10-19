@@ -45,7 +45,7 @@ function Footer() {
     <div className="Footer">
       
       <div id="footer-text">
-        <a href="https://www.instagram.com/__r_u_f_f__/">@__r_u_f_f__</a>
+        <a href="https://www.instagram.com/_city_princess_/">@_city_princess_</a>
       </div>
       <div>
         <Link to="/?songLink=strangers">Listen to debut single Strangers in the Dark</Link>
